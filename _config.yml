@@ -1,0 +1,60 @@
+
+repository: yiwenc22/CV
+
+name: Yiwen Chen
+title: Student
+email: yiwenc22@gmail.com
+phone: (808)339-6861
+website: https://yiwenc22.github.io/
+
+darkmode: never
+
+twitter_username: Yiwenc22
+github_username:  yiwenc22
+linkedin_username: yiwen-chen-93687819a
+
+additional_links:
+- title: TechHui
+  icon: fa-id-card
+  url: http://www.techhui.com/profile/yiwenChen
+
+about_profile_image: images/Mypictureme.jpg
+about_content: |
+  Engaged, creative student studying for a Bachelor of Science degree in the Department of Information and Computer
+  Sciences at the University of Hawaii At Manoa. I expect to graduate in Fall, 2021 and Planing to for Master Degree. Seeking to improve analytical skills,
+  corroborate skills, and coding skills. Inquisitive, energetic computer science specialist skilled in leadership,
+  with a strong foundation in math, logic, and cross-platform coding. Seeking to leverage solid skills in collaboration,
+  communication, and development as a programmer.
+
+more_title: Skills
+more_content: |
+  <ul>
+    <li>Programming Languages: Java, JavaScript, C, C++, C#, SQL, JSP, HTML, CSS, Python</li>
+    <li>Framework/Database: Apache Maven, Apache Tomcat, Java Spring Framework,
+        Spring Boot, Spring Security, Thymeleaf, Bootstrap, AngularJS, ReactJS, SemanticUI,
+        JQuery, Jasmine, Jenkins, UnderScoreJS, Mongo-DB   </li>
+    <li>Tools: Unity3D, Abndroid Studio, Notebooks(Jupyter, google, Kanban, etc), VS Code, IntelliJ IDEA, Github</li>
+    <li>Speaking Languages: Cantonese, Mandarin, Englsih</li>
+  </ul>
+
+footer_show_references: true
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
