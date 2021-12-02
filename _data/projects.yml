@@ -42,3 +42,14 @@
   description: |
     My role in this projects was to Help with the UI mainly, creating Landing page, and setting the postion
     of where page, button, and picture go.
+
+- layout: top-middle
+  name: Event Finder
+  link: https://github.com/Lam-Tech/Event-Finder
+  github: Lam-Tech/Event-Finder
+  quote: >
+    This app is a social application that trying to connect people together after the covid crisis,
+    it allow people to create event and join other events to make friend and make their life happy again.
+  description: |
+    In this project, I mainly work on the front end and the displaying event functionality for the project.
+    I Created the create event form to allow user to create event and displaying it on the events page.
